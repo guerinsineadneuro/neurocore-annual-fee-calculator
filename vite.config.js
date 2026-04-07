@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/neuro-annual-fee-calculator/',
+  base: '/neurocore-annual-fee-calculator/',
 })
